@@ -57,7 +57,7 @@ const Home = () => {
           <h2 className="text-2xl font-graffiti mb-4 text-croco-400 flex items-center">
             <Sparkles className="mr-2" /> Marcas Premium
           </h2>
-          <p>Selección curada de casas de moda vintage icónicas.</p>
+          <p>Selección epica de las mejores marcas de ropa vintage</p>
         </motion.div>
         <motion.div
           className="glassmorphism p-6 rounded-lg urban-border product-card"
