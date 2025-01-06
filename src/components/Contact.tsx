@@ -92,9 +92,9 @@ const Contact = () => {
       </div>
       <div className="mt-12 text-center">
         <h2 className="text-2xl font-bold mb-4">Información de Contacto</h2>
-        <p className="mb-2">Email: crocogol@gmail.com</p>
+        <p className="mb-2">Email: crocostyle@gmail.com</p>
         <p className="mb-2">Teléfono: 3456445369</p>
-        <p>Síguenos en Instagram: @crocogol</p>
+        <p>Síguenos en Instagram: @crocostyle</p>
       </div>
     </motion.div>
   )
